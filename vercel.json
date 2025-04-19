@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "buildCommand": "npm run build",
+  "installCommand": "npm install",
+  "framework": "nextjs",
+  "regions": ["sin1"],
+  "env": {
+    "NEXT_PUBLIC_SUPABASE_URL": "https://lusvdomupexjxchgouaz.supabase.co",
+    "NEXT_PUBLIC_SUPABASE_ANON_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imx1c3Zkb211cGV4anhjaGdvdWF6Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDQ4MjM2NTUsImV4cCI6MjA2MDM5OTY1NX0.N_g7aA73z_vmGgpHsJYG905tSruEZ_-ud8fx2K8jyOQ",
+    "NEXT_PUBLIC_APP_URL": "https://techigem.com"
+  }
+}
